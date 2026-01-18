@@ -50,6 +50,7 @@ VOLUME /wallet
 
 EXPOSE 18080
 EXPOSE 18081
+EXPOSE 18082
 
 # switch to user monero
 #USER monero
